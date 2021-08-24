@@ -1,8 +1,9 @@
 remote_theme: coursweb/jk-theme
-title: Infos IMD
+title: Développement d'interfaces 2
 description: Cours développement d'interfaces 2.
 lang: fr-FR
 markdown: GFM
+# menu 
 chapters:
  - title: Cours CSS
    url: https://cours-web.ch/css/
@@ -10,6 +11,9 @@ chapters:
    url: https://eracom.ch/informations-eleves-id/
  - title: Teams
    url: https://teams.microsoft.com/l/channel/19%3af0dbe85c7fa84b01b9831dd3b3855843%40thread.tacv2/Dev%25202%2520(CSS)?groupId=cddcd5ea-659b-4e31-bd8b-2d0781a09f8b&tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1
+- title: Plan de formation
+   url: https://code.eracom-pedagogique.ch/formation-imd-2020/cursus-fpc/
+# pied de page   
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
   <li>2017-2021</li></ul>
