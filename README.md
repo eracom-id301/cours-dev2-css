@@ -6,9 +6,9 @@ permalink: index.html
 
 # Développement d’interfaces 2 – CSS
 
-mardi – 15h15 à 16h45.  
-ID301  
-Manuel Schmalstieg
+Horaire: mardi – 15h15 à 16h45.  
+Classe: ID301  
+Enseignant: Manuel Schmalstieg
 
 ## Introduction
 
