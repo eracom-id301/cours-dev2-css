@@ -1,13 +1,11 @@
 remote_theme: coursweb/jk-theme
-title: Développement Interfaces CSS
+title: Infos IMD
 description: Un cours sur le développement web.
 lang: fr-FR
 markdown: GFM
 chapters:
  - title: Infos IMD
    url: https://eracom.ch/informations-eleves-id/
-- title: Plan de formation
-   url: https://code.eracom-pedagogique.ch/formation-imd-2020/cursus-fpc/
  - title: Pédagogie
    url: https://code.eracom-pedagogique.ch/pedagogie/
 footer_col_1: <ul class="contact-list">
