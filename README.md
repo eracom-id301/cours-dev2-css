@@ -1,7 +1,16 @@
-# Développement d’interfaces – CSS
+---
+layout: page
+title: Développement d’interfaces 2
+permalink: index.html
+---
+
+# Développement d’interfaces 2 – CSS
 
 mardi, de 15h15 à 16h45.  
-2 périodes.
+ID301  
+Manuel Schmalstieg
+
+## Introduction
 
 Dans le cours d'approfondissement CSS, vous allez:
 - vous familiariser avec la logique de ce langage.
