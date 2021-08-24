@@ -6,6 +6,8 @@ markdown: GFM
 chapters:
  - title: Cours CSS
    url: https://cours-web.ch/css/
+ - title: Infos IMD
+   url: https://eracom.ch/informations-eleves-id/
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
   <li>2017-2021</li></ul>
