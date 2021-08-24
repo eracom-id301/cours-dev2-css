@@ -35,6 +35,8 @@ Podsie aidera également l'enseignant·e à détecter quels sont les domaines qu
 
 Se connecter: [student.podsie.org](https://student.podsie.org/)
 
+Un premier "Assignment" pour le 1er jour: [https://student.podsie.org/assignments/1707](https://student.podsie.org/assignments/1707)
+
 Pour en savoir plus:
 
 - [Ecouter une interview](https://www.learningscientists.org/learning-scientists-podcast/2021/2/25/episode-54-an-interview-with-the-co-founders-of-podsie) avec les créateurs de Podsie dans le podcast "Learning Scientists Podcast" (en anglais)
