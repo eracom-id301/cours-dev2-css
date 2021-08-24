@@ -6,7 +6,7 @@ permalink: index.html
 
 # Développement d’interfaces 2 – CSS
 
-mardi, de 15h15 à 16h45.  
+mardi – 15h15 à 16h45.  
 ID301  
 Manuel Schmalstieg
 
@@ -54,7 +54,7 @@ Un langage visuel comme CSS est un outil d'expression, qui donne une place à la
 
 ### Chapitre 5 : New horizons
 
-CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), **Feature Queries**, et les unités **Minamx** et **Clamp** (qui permettent de nouvelles approches du responsive).
+CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), **Feature Queries**, et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
 
 
 ## Evaluations
