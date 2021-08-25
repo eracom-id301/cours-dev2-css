@@ -10,7 +10,7 @@ Vous utiliserez ce lien – [student.podsie.org](https://student.podsie.org/) �
 
 Podsie est un outil pour élèves et enseignant-es, visant à appliquer des méthodes d'apprentissage validées par les sciences de l'éducation. Objectif: vous aider à **mémoriser** les connaissances.
 
-Les technologies utilisées pour la conception web nécessitent l'apprentissage de nouveaux vocabulaires et la mémorisation de nombreux concepts. Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est indispensable. Pour vous aider à accomplir cette mémorisation, il convient d'utiliser les meilleurs outils à disposition.
+Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est vitale. Pour vous aider à accomplir cette mémorisation, il convient d'utiliser les meilleurs outils à disposition.
 
 ### Les stratégies d'apprentissage efficaces
 
