@@ -19,7 +19,7 @@ Dans le cours d'approfondissement CSS, vous allez:
 
 Le langage CSS, inventé quelques années après la création du World Wide Web (en 1996), est ce qui a fait du web un medium visuel, coloré... en un mot, magique. Ce langage a sa propre logique, que ce cours vous aidera à apprivoiser. Une fois que vous aurez une certaine maîtrise, ce sera un plaisir que de donner forme et de créer en n'étant limité que par votre imagination.
 
-Notre progression au cours du semestre est rythmée en cinq chapitres. Au passage, vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de GIT, un logiciel de versionnage (et plus encore).
+Notre progression au cours du semestre est rythmée en cinq chapitres. Au passage, vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de **GIT**, un logiciel de versionnage (et plus encore).
 
 ## Structure
 
