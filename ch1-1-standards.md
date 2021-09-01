@@ -4,7 +4,7 @@ title: Standards
 permalink: standards.html
 ---
 
-Date: 31 août 2021
+Cours du 31 août 2021
 
 ## Les standards du web
 
