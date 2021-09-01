@@ -27,7 +27,7 @@ Le cours est structuré en 5 chapitres.
 
 ### Chapitre 1 : Standards
 
-- CSS et standards
+- [CSS et standards](ch1-1-standards.md)
 - Audio et Video
 - SVG, format vectoriel du web.
 
