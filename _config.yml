@@ -6,6 +6,8 @@ lang: fr-FR
 # menu 
 chapters:
  - title: Cours CSS
+   url: https://eracom-id301.github.io/cours-dev2-css/
+ - title: Référence CSS
    url: https://cours-web.ch/css/
  - title: Infos IMD
    url: https://eracom.ch/informations-eleves-id/

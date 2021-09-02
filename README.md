@@ -12,7 +12,7 @@ Enseignant: Manuel Schmalstieg
 
 ## Introduction
 
-Dans le cours d'approfondissement CSS, vous allez:
+Dans ce cours d'approfondissement CSS, vous allez:
 - vous familiariser avec la logique de ce langage.
 - apprendre de nombreuses fonctions du CSS.
 - styler des interfaces web
