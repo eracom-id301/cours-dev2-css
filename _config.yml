@@ -5,7 +5,9 @@ lang: fr-FR
 # markdown: GFM
 # menu 
 chapters:
- - title: Cours CSS
+ - title: Cours Dev 2
+   url: https://eracom-id301.github.io/cours-dev2-css/
+ - title: Cours Projet Interface
    url: https://eracom-id301.github.io/cours-dev2-css/
  - title: Référence CSS
    url: https://cours-web.ch/css/
