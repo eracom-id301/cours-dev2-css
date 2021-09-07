@@ -28,6 +28,12 @@ Un autre exemple qui propose deux formats:
 </audio>
 ```
 
+### Quel format audio choisir?
+
+Le format MP3 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
+
+Voir sur [https://caniuse.com/mp3](https://caniuse.com/mp3)
+
 ## Exemples vidéo
 
 ```html
@@ -37,6 +43,12 @@ Un autre exemple qui propose deux formats:
   <p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
 </video>
 ```
+
+### Quel format vidéo choisir?
+
+Le format MPEG-4/H.264 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
+
+Voir sur [https://caniuse.com/mpeg4](https://caniuse.com/mpeg4)
 
 ## Ressources
 
