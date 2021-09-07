@@ -1,12 +1,6 @@
----
-layout: page
-title: Développement d’interfaces 2
-permalink: index.html
----
-
 # Développement d’interfaces 2 – CSS
 
-Horaire: mardi – 15h15 à 16h45.  
+Horaire: mardi – 15h15 à 16h45   
 Classe: ID301  
 Enseignant: Manuel Schmalstieg
 
@@ -29,28 +23,30 @@ Le cours est structuré en 5 chapitres.
 
 - [CSS et standards](ch1-1-standards.md)
 - Audio et Video
-- SVG, format vectoriel du web.
 
-### Chapitre 2 : GIT
+### Chapitre 2 : The New Layout
 
-Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de GIT, un logiciel de versionnage.
+CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), **Feature Queries**, et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
+
+### Chapitre 3 : Shiny things
+
+Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons trois modules CSS qui ont pour rôle d'étendre les possibilités créatives: **CSS Shapes**, **CSS Transforms** et **[CSS Animations](https://cours-web.ch/css/animations.html)**.
+
+### Chapitre 4 : A11Y
+
+Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre une interaction.
+
+### Chapitre 5 : GIT
+
+Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
 
 - GIT - Intro GIT
 - GIT - Publier avec Github Pages
 - GIT - Collaborer avec Git
 
-### Chapitre 3 : A11Y
+### Petit bonus pour la fin
 
-Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre une interaction.
-
-### Chapitre 4 : Shiny things
-
-Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permettre des choix audacieux et novateurs. Nous abordons trois modules CSS qui ont pour rôle d'étendre les possibilités créatives: **CSS Shapes**, **CSS Transforms** et **CSS Animations**.
-
-### Chapitre 5 : New horizons
-
-CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), **Feature Queries**, et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
-
+- SVG, format vectoriel du web.
 
 ## Evaluations
 
