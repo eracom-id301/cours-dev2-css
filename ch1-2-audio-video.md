@@ -8,6 +8,8 @@ Comment intégrer des fichiers son et vidéo dans une page web.
 
 ## Exemples audio
 
+Un exemple simple qui permet de lire un fichier audio mp3:
+
 ```html
 <audio
   controls
@@ -16,7 +18,7 @@ Comment intégrer des fichiers son et vidéo dans une page web.
 </audio>
 ```
 
-Un autre exemple qui propose deux formats:
+Un autre exemple qui propose deux formats (mp3 et ogg):
 
 ```html
 <audio controls>
@@ -32,7 +34,8 @@ Un autre exemple qui propose deux formats:
 
 Le format MP3 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
 
-Voir sur [https://caniuse.com/mp3](https://caniuse.com/mp3)
+- Infos sur [caniuse.com : MP3 audio format](https://caniuse.com/mp3)
+- Infos sur [Wikipedia : HTML5 audio](https://en.wikipedia.org/wiki/HTML5_video)
 
 ## Exemples vidéo
 
@@ -48,7 +51,26 @@ Voir sur [https://caniuse.com/mp3](https://caniuse.com/mp3)
 
 Le format MPEG-4/H.264 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
 
-Voir sur [https://caniuse.com/mpeg4](https://caniuse.com/mpeg4)
+- Infos sur [caniuse.com : MPEG-4/H.264 video format](https://caniuse.com/mpeg4)
+- Infos sur [Wikipedia : HTML5 video](https://en.wikipedia.org/wiki/HTML5_video)
+
+### Précision sur les conteneurs et codecs
+
+L'article Wikipédia [Format conteneur](https://fr.wikipedia.org/wiki/Format_conteneur) donne des précisions importantes.
+
+Dans le domaine du multimédia, il est important de bien séparer le rôle des conteneurs de celui des codecs :
+
+- Un **conteneur** permet de stocker des flux vidéo et audio liés selon une séquence précise. Exemples de conteneurs: MP4, Webm, Ogg, QuickTime, AVI, MKV.
+- Un **codec** permet d'encoder (COmpression) et de décoder (DECompression) ces flux. Exemples de codecs vidéo: H.264, H.265, VP9, Ogg Theora. Exemples de codecs audio: AC3, MP3, AAC, Ogg Vorbis.
+
+Le conteneur peut donc être vu comme une boîte (le *contenant*), et les flux comme ce que l'on met à l'intérieur de la boîte (le *contenu*).
+
+Parmi les conteneurs fréquents:
+
+- **MP4** (ou MPEG-4), format conteneur pour encapsuler des données de type multimédia (audio ou vidéo essentiellement). L'extension de nom de fichier généralement associée à ce format est « .mp4 ».
+- **WebM** (extensions .webm, .weba), format open-source développé par Google. Peut regrouper des flux vidéo codés en VP9 et des flux audio codés en Vorbis.
+- **Ogg** (extensions .ogg, .ogv, .oga, .ogx). Format open-source.
+- **QuickTime** (extension .mov) : développé par Apple.
 
 ## Ressources
 
