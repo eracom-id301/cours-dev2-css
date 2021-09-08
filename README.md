@@ -21,8 +21,8 @@ Le cours est structuré en 5 chapitres.
 
 ### Chapitre 1 : Standards
 
-- [CSS et standards](ch1-1-standards.md)
-- Audio et Video
+- [CSS et standards](standards.html)
+- [Audio et Video](audio-video.html)
 
 ### Chapitre 2 : The New Layout
 
