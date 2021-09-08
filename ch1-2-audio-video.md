@@ -34,8 +34,10 @@ Un autre exemple qui propose deux formats (mp3 et ogg):
 
 Le format MP3 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
 
-- Infos sur [caniuse.com : MP3 audio format](https://caniuse.com/mp3)
-- Infos sur [Wikipedia : HTML5 audio](https://en.wikipedia.org/wiki/HTML5_video)
+- Infos sur [caniuse.com : MP3 audio format](https://caniuse.com/mp3) - support global de 98.38%.
+- Infos sur [Wikipedia : HTML5 audio](https://en.wikipedia.org/wiki/HTML5_audio)
+
+Autre format audio très bien pris en charge: le codec AAC dans un conteneur MP4. Support global de 98.21% [selon caniuse.com](https://caniuse.com/aac).
 
 ## Exemples vidéo
 
