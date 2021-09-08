@@ -56,8 +56,6 @@ Le format MPEG-4/H.264 est aujourd'hui le mieux pris en charge par tous les navi
 
 ### Précision sur les conteneurs et codecs
 
-L'article Wikipédia [Format conteneur](https://fr.wikipedia.org/wiki/Format_conteneur) donne des précisions importantes.
-
 Dans le domaine du multimédia, il est important de bien séparer le rôle des conteneurs de celui des codecs :
 
 - Un **conteneur** permet de stocker des flux vidéo et audio liés selon une séquence précise. Exemples de conteneurs: MP4, Webm, Ogg, QuickTime, AVI, MKV.
@@ -71,6 +69,8 @@ Parmi les conteneurs fréquents:
 - **WebM** (extensions .webm, .weba), format open-source développé par Google. Peut regrouper des flux vidéo codés en VP9 et des flux audio codés en Vorbis.
 - **Ogg** (extensions .ogg, .ogv, .oga, .ogx). Format open-source.
 - **QuickTime** (extension .mov) : développé par Apple.
+
+L'article Wikipédia [Format conteneur](https://fr.wikipedia.org/wiki/Format_conteneur) donne plus de précisions.
 
 ## Ressources
 
