@@ -53,7 +53,7 @@ Autre format audio très bien pris en charge: le codec AAC dans un conteneur MP4
 
 Le format MPEG-4/H.264 est aujourd'hui le mieux pris en charge par tous les navigateurs courants:
 
-- Infos sur [caniuse.com : MPEG-4/H.264 video format](https://caniuse.com/mpeg4)
+- Infos sur [caniuse.com : MPEG-4/H.264 video format](https://caniuse.com/mpeg4) - support global de 98.19%
 - Infos sur [Wikipedia : HTML5 video](https://en.wikipedia.org/wiki/HTML5_video)
 
 ### Précision sur les conteneurs et codecs
