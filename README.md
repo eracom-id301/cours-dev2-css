@@ -44,7 +44,7 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 - GIT - Publier avec Github Pages
 - GIT - Collaborer avec Git
 
-### Petit bonus pour la fin
+### Petit bonus pour la fin
 
 - SVG, format vectoriel du web.
 
