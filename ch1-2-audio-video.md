@@ -4,6 +4,8 @@ title: Audio et vidéo
 permalink: audio-video.html
 ---
 
+Cours du 7 septembre 2021
+
 Comment intégrer des fichiers son et vidéo dans une page web.
 
 ## Exemples audio
@@ -77,4 +79,4 @@ L'article Wikipédia [Format conteneur](https://fr.wikipedia.org/wiki/Format_con
 ## Ressources
 
 - [Page MDN sur l'élément audio](https://developer.mozilla.org/fr/docs/Web/HTML/Element/audio)
-- - [Page MDN sur l'élément video](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [Page MDN sur l'élément video](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
