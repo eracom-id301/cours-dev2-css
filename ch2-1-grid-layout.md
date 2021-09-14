@@ -26,7 +26,11 @@ Voici les termes à connaître, les éléments logiques qui constituent une gril
 - **Grid Cell** : une cellule, une intersection entre deux pistes. La plus petite entité de positionnement.
 - **Grid Area** : emplacement constitué d'une ou plusieurs *Grid Cell*, dans lequel se positionne un *Grid Item*.
 
-Initialisation de la grille:
+![](img/cssgrid-concept.png)
+
+## Initialisation de la grille
+
+Voici comment déclarer une grille CSS:
 
 ```css
 .container {
@@ -74,42 +78,55 @@ Une fois la grille déclarée, les éléments enfants (les *Grid Items*) vont se
 
 Si on veut définir des positions différentes de la répartition automatique, on peut utiliser les propriétés de placement suivantes: 
 
-- `grid-row-start`
-- `grid-row-end`
 - `grid-column-start`
 - `grid-column-end`
+- `grid-row-start`
+- `grid-row-end`
 - `order`
 
-Pour cela, il est important de comprendre comment fonctionnent les *Grid Lines*.
+Pour cela, il est important de comprendre comment fonctionnent les *Grid Lines*. Comme vous voyez sur cette image, chaque ligne possède un numéro:
+
+![](img/grid-lines.png)
+
+Si on veut positionner un élément entre les lignes verticales 2 et 3, on écrira:
+
+```css
+.item {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+```
+
+[Voici un codepen](https://codepen.io/eracom/pen/abwyybp) avec un exemple simple qui vous permet de vous exercer.
+
 
 ### Gouttières
 
-On peut créer une gouttière, un espace séparant les Grid Tracks.
+Les propriétés suivantes permettent de créer une gouttière, un espace séparant les *Grid Tracks*.
 
 - `row-gap` : espacement horizontal entre chaque rangée.
 - `column-gap` : espacement vertical entre chaque colonne.
 - `gap` : racourci pour les deux.
 
 
-### Le challenge No 3
+## Le challenge No 3
 
 Le challenge d'aujourd'hui consiste à produire un design utilisant CSS Grid Layout, pour le "Brutally Early Club".
 
-Voici le site web original: [http://www.brutallyearlyclub.org/](http://www.brutallyearlyclub.org/) - il s'agit d'un projet du curateur Hans-Ulrich Obrist.
+Le "Brutally Early Club" est un projet fondé par le curateur d'art contemporain Hans-Ulrich Obrist. C'est un "salon de discussion" pour personnes à l'horaire chargé, se déroulant à 6:30 du matin. Voici le site web original: [http://www.brutallyearlyclub.org/](http://www.brutallyearlyclub.org/).
 
-Voici le design qu'on aimerait obtenir:
+Et voici le design qu'on aimerait obtenir, en utilisant CSS Grid Layout:
 
 ![](img/brutally-early-club.jpg)
 
 Pour vous aider à démarrer vous pouvez utiliser ce code:
 [https://codepen.io/eracom/pen/zYzdNYV?editors=1100](https://codepen.io/eracom/pen/zYzdNYV?editors=1100)
 
-Vous devrez repositionner certains éléments sur la grille.
-Une fois terminé, transmettez votre code via le devoir dans Teams. Vous pouvez le publier sur Codepen, Netlify, ou Replit, selon votre préférence.
+Une fois le travail terminé, transmettez votre code via le devoir dans Teams. Vous pouvez le publier sur Codepen, Netlify, ou Replit, selon votre préférence.
 
 ## Tutoriels, ressources en ligne:
 
-Il existe de nombreux tutoriels. Choisissez celui qui vous convient
+Tutoriels recommandés:
 
 - [CSS Grid Layout](https://la-cascade.io/css-grid-layout-guide-complet/), guide complet (traduction du site anglais CSS Tricks)
 - [CSS Grid Layout sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)

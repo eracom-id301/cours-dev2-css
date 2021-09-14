@@ -2,7 +2,8 @@
 
 Horaire: mardi – 15h15 à 16h45   
 Classe: ID301  
-Enseignant: Manuel Schmalstieg
+Enseignant: Manuel Schmalstieg  
+Lien: [https://eracom-id301.github.io/cours-dev2-css/](https://eracom-id301.github.io/cours-dev2-css/)
 
 ## Introduction
 
