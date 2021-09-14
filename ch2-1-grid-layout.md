@@ -123,19 +123,21 @@ Et voici le design qu'on aimerait obtenir, en utilisant CSS Grid Layout:
 
 ![](img/brutally-early-club.jpg)
 
-Pour vous aider à démarrer vous pouvez utiliser ce code:
+Pour vous aider à démarrer, et vous concentrer sur les propriétés du Grid Layout, vous pouvez utiliser ce code:
 [https://codepen.io/eracom/pen/zYzdNYV?editors=1100](https://codepen.io/eracom/pen/zYzdNYV?editors=1100)
 
 Une fois le travail terminé, transmettez votre code via le devoir dans Teams. Vous pouvez le publier sur Codepen, Netlify, ou Replit, selon votre préférence.
 
 ## Tutoriels, ressources en ligne:
 
-Tutoriels recommandés:
+Ressources d'apprentissage:
 
-- [CSS Grid Layout](https://la-cascade.io/css-grid-layout-guide-complet/), guide complet (traduction du site anglais CSS Tricks)
-- [CSS Grid Layout sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/), par CSS-Tricks
+- [Traduction en français](https://la-cascade.io/css-grid-layout-guide-complet/) (mais il manque les visuels)
 - [CSS3 Grid Layout](https://www.alsacreations.com/article/lire/1388-CSS3-Grid-Layout.html), expliqué par Raphaël Goetter
+- [CSS Grid Layout sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 
 Ressources techniques:
 
 - [La spécification du W3C](https://www.w3.org/TR/css-grid-1/)
+- [Grid by Example](https://gridbyexample.com/examples/), collection d'exemples par Rachel Andrews.
