@@ -4,9 +4,9 @@ title: CSS Grid Layout
 permalink: grid-layout.html
 ---
 
-L'arrivée de la mise en page par grilles dans les navigateurs est une longue histoire. C'est au printemps 2017 que le module CSS Grid Layout devient réalité et peu être exploité en production. 
+L'arrivée de la mise en page par grilles dans les navigateurs est une longue histoire. C'est au printemps 2017 que le module CSS Grid Layout devient réalité et peut être exploité en production. 
 
-Dans cette petite vidéo, *Creating CSS Grid*, les équipes de Igalia, Microsoft et d’autres développeurs du projet Grid Layout relatent la naissance et les débuts de cette spécification :
+Dans cette courte vidéo, *Creating CSS Grid*, les équipes de Igalia, Microsoft et d’autres développeurs du projet Grid Layout relatent la naissance et les débuts de cette spécification :
 [https://www.youtube.com/watch?v=J9uaT9dggZE](https://www.youtube.com/watch?v=J9uaT9dggZE)
 
 ## Ok, mais comment ça marche ?
