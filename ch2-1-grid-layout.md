@@ -134,7 +134,7 @@ Ressources d'apprentissage:
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/), par CSS-Tricks
 - [Traduction en français](https://la-cascade.io/css-grid-layout-guide-complet/) (mais il manque les visuels)
-- [CSS3 Grid Layout](https://www.alsacreations.com/article/lire/1388-CSS3-Grid-Layout.html), expliqué par Raphaël Goetter
+- [CSS Grid Layout](https://www.alsacreations.com/article/lire/1388-CSS3-Grid-Layout.html) expliqué par Raphaël Goetter
 - [CSS Grid Layout sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 
 Ressources techniques:
