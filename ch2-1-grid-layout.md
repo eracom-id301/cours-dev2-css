@@ -57,7 +57,9 @@ Exemple: pour déclarer deux colonnes de largeur égale, on peut procéder ainsi
 }
 ```
 
-On peut aussi utiliser une nouvelle unité CSS, créée spécialement pour faciliter la conception de grilles: l'unité `fr` (qui signifie "fraction"). Cette unité désigne une fraction de l'espace disponible.
+#### L'unité fr
+
+On peut aussi utiliser une nouvelle unité CSS, conçue spécialement pour faciliter la conception de grilles: l'unité `fr`, qui signifie "fraction". Cette unité désigne une fraction de l'espace disponible.
 
 Ainsi, si on écrit:
 
@@ -76,7 +78,7 @@ Si on veut créer une grille de 4 colonnes, avec ces proportions: 25% 25% 25% 25
 
 Une fois la grille déclarée, les éléments enfants (les *Grid Items*) vont se placer automatiquement dans l'ordre des cellules disponibles.
 
-Si on veut définir des positions différentes de la répartition automatique, on peut utiliser les propriétés de placement suivantes: 
+Si on veut définir des positions autres que la répartition automatique, on peut utiliser ces propriétés de placement: 
 
 - `grid-column-start`
 - `grid-column-end`
@@ -91,7 +93,7 @@ Pour cela, il est important de comprendre comment fonctionnent les *Grid Lines*.
 Si on veut positionner un élément entre les lignes verticales 2 et 3, on écrira:
 
 ```css
-.item {
+section {
   grid-column-start: 2;
   grid-column-end: 3;
 }
@@ -109,11 +111,13 @@ Les propriétés suivantes permettent de créer une gouttière, un espace sépar
 - `gap` : racourci pour les deux.
 
 
-## Le challenge No 3
+## Le challenge No 3
 
 Le challenge d'aujourd'hui consiste à produire un design utilisant CSS Grid Layout, pour le "Brutally Early Club".
 
 Le "Brutally Early Club" est un projet fondé par le curateur d'art contemporain Hans-Ulrich Obrist. C'est un "salon de discussion" pour personnes à l'horaire chargé, se déroulant à 6:30 du matin. Voici le site web original: [http://www.brutallyearlyclub.org/](http://www.brutallyearlyclub.org/).
+
+![](img/brutally-early-original.jpg)
 
 Et voici le design qu'on aimerait obtenir, en utilisant CSS Grid Layout:
 

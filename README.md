@@ -27,6 +27,8 @@ Le cours est structuré en 5 chapitres.
 
 ### Chapitre 2 : The New Layout
 
+- [CSS Grid Layout](grid-layout.html)
+
 CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), **Feature Queries**, et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
 
 ### Chapitre 3 : Shiny things
