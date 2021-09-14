@@ -99,7 +99,7 @@ section {
 }
 ```
 
-[Voici un codepen](https://codepen.io/eracom/pen/abwyybp) avec un exemple simple qui vous permet de vous exercer.
+[Voici un codepen](https://codepen.io/eracom/pen/abwyybp?editors=1100) avec un exemple simple qui vous permet de vous exercer.
 
 
 ### Gouttières
