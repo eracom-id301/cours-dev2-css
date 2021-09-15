@@ -9,6 +9,8 @@ L'arrivée de la mise en page par grilles dans les navigateurs est une longue hi
 Dans cette courte vidéo, *Creating CSS Grid*, les équipes de Igalia, Microsoft et d’autres développeurs du projet Grid Layout relatent la naissance et les débuts de cette spécification :
 [https://www.youtube.com/watch?v=J9uaT9dggZE](https://www.youtube.com/watch?v=J9uaT9dggZE)
 
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/J9uaT9dggZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Ok, mais comment ça marche ?
 
 Les grilles CSS sont constituées de deux entités:
