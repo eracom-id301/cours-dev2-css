@@ -26,7 +26,7 @@ Les explications et exemples sont dans le **support de cours**: [https://cours-w
 
 ## Le Challenge N°4
 
-Produire une grille d'images, avec les nouvelles fonctionnalités – releat, auto-fit, minmax. L'objectif est de créer une grille avec des images en format horizontal et vertical, avec aussi peu de lignes CSS que possible.
+Produire une grille d'images, avec les nouvelles fonctionnalités – `repeat`, `auto-fit`, `minmax`. L'objectif est de créer une grille avec des images en format horizontal et vertical, avec aussi peu de lignes CSS que possible.
 
 Voici un début de code HTML, qu'il s'agit de transformer en grille:
 
