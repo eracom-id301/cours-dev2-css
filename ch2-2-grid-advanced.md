@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSS Grid Layout +
+title: CSS Grid Layout Avancé
 permalink: grid-advanced.html
 ---
 
