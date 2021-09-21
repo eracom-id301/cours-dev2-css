@@ -24,7 +24,7 @@ Les points à l'ordre du jour:
 
 Les explications et exemples sont dans le **support de cours**: [https://cours-web.ch/css-grid/nommer.html](https://cours-web.ch/css-grid/nommer.html) – chapitre 7 et 8.
 
-## Le Challenge No#4
+## Le Challenge N°4
 
 Produire une grille d'images, avec les nouvelles fonctionnalités – releat, auto-fit, minmax. L'objectif est de créer une grille avec des images en format horizontal et vertical, avec aussi peu de lignes CSS que possible.
 
