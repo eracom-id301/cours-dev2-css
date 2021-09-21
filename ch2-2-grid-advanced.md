@@ -35,3 +35,5 @@ Voici un début de code HTML, qu'il s'agit de transformer en grille:
   Grid Gallery</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+
+Après avoir essayé de faire l'exercice, vous pouvez vous corriger en prenant comme référence ce code : [https://codepen.io/eracom/pen/zYzaBed](https://codepen.io/eracom/pen/zYzaBed?editors=1100)
