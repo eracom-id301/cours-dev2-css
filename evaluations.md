@@ -32,4 +32,12 @@ La note est attribuée en fonction du nombre de challenges réalisés:
 
 Ce test reprendra les questions des quiz de révision publiés chaque semaine sur Podsie.
 
-Le test pourra être effectué dès le 23 novembre, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises.
+Le test pourra être effectué dès le 23 novembre, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises. 
+
+Barème: à venir.
+
+## Documentation personnelle
+
+Tenir une **documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). Il est recommandé de le soumettre à l'évaluation le 21 décembre. 
+
+Critères d'évaluation: à venir.
