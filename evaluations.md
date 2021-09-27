@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annexe: Evaluations
+title: Annexe – Evaluations
 permalink: evaluations.html
 ---
 

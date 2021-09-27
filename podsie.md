@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annexe: Podsie
+title: Annexe – Podsie
 permalink: podsie.html
 ---
 
