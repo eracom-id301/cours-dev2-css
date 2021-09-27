@@ -11,7 +11,7 @@ Agenda du cours:
 |:------- |:----------------- |:----------------- |
 | 14 sept | Grid Layout 1/2   |                   |
 | 21 sept | Grid Layout 2/2   |                   |
-| 28 sept | MinMax, Clamp     | Thibaud, Miguel   |
+| 28 sept | Clamp             | Thibaud, Miguel   |
 | 05 oct  | Generated content | Joël, Simon       |
 | 02 nov  | CSS Shapes        | Messaline, Audrey |
 | 09 nov  | CSS Transforms    | Patrick, Noémie   |

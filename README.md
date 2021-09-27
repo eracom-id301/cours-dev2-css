@@ -31,32 +31,44 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 
 - [CSS Grid Layout](grid-layout.html) - 14 septembre.
 - [Grid Layout avancé](grid-advanced.html) - 21 septembre.
+- Clamp - 28 septembre.
+
+### Intermède: Generated Content - 5 octobre
+
+Le "Generated Content" est une fonctionnalité CSS pratique et de plus en plus utilisée.
 
 ### Chapitre 3 : Shiny things
 
-Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons trois modules CSS qui ont pour rôle d'étendre les possibilités créatives: **CSS Shapes**, **CSS Transforms** et **[CSS Animations](https://cours-web.ch/css/animations.html)**.
+Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons trois modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
+
+- CSS Shapes - 2 novembre.
+- CSS Transforms - 9 novembre.
+- CSS Animations - 16 novembre.
 
 ### Chapitre 4 : A11Y
 
 Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
 
+- A11Y - 23 novembre
+- Input Forms - 30 novembre
+
 ### Chapitre 5 : GIT
 
 Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
 
-- GIT - Intro GIT
-- GIT - Publier avec Github Pages
-- GIT - Collaborer avec Git
+- GIT : Intro GIT - 7 décembre
+- GIT : Publier avec Github Pages - 14 décembre
+- GIT : Collaborer avec Git - 21 décembre
 
 ### Petit bonus pour la fin
 
-- SVG, format vectoriel du web.
+- SVG, format vectoriel du web - 11 janvier
 
 ## Evaluations
 
-Trois évaluations seront réalisées au courant du semestre.
+Trois évaluations seront réalisées au courant du semestre:
 
-- Réaliser les challenges (1/3).
-- Test théorique (qui reprend les questions des quiz de révision hebdomadaires) (1/3).
-- Tenir une **documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). (1/3).
+- Réaliser les **challenges** (1/3).
+- Test théorique (qui reprend les questions des quiz de révision hebdomadaires sur Podsie) (1/3).
+- Tenir une **documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). (1/3). Pourra être évalué dès le 21 décembre.
 
