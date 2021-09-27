@@ -31,7 +31,7 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 
 - [CSS Grid Layout](grid-layout.html) - 14 septembre.
 - [Grid Layout avancé](grid-advanced.html) - 21 septembre.
-- Clamp - 28 septembre.
+- [Clamp](clamp.html) - 28 septembre.
 
 ### Intermède: Generated Content - 5 octobre
 
