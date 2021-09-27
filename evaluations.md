@@ -12,7 +12,7 @@ Trois évaluations seront réalisées au courant du semestre:
 
 ## Evaluation des challenges
 
-Un challenge peut être "réalisé" ou "non-réalisé". Le nombre total de challenges proposés durant ce semestre est de 15. Le 15e sera effectué le 11 janvier (cours sur le format SVG).
+Un challenge peut être "réalisé" ou "non-réalisé". Le nombre total de challenges proposés durant ce semestre est de 13. Le 13e sera effectué le 11 janvier (cours sur le format SVG).
 
 La note est attribuée en fonction du nombre de challenges réalisés:
 
@@ -20,8 +20,8 @@ La note est attribuée en fonction du nombre de challenges réalisés:
 |:------------------- |:---- |
 | 13                  | 6    |
 | 12                  | 5,5  |
-| 11             | 5    |
-| 10 - 11             | 4,5  |
+| 11                  | 5    |
+| 10                  | 4,5  |
 | 8 - 9               | 4    |
 | 6 - 7               | 3,5  |
 | 4 - 5               | 3    |
@@ -33,4 +33,3 @@ La note est attribuée en fonction du nombre de challenges réalisés:
 Ce test reprendra les questions des quiz de révision publiés chaque semaine sur Podsie.
 
 Le test pourra être effectué dès le 23 novembre, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises.
-
