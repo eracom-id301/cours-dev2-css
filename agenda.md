@@ -9,6 +9,8 @@ Agenda du cours:
 
 | Date    | Matière           | Groupe expert     |
 |:------- |:----------------- |:----------------- |
+| 31 août | Standards         |                   |
+| 07 sept | Audio / vidéo     |                   |
 | 14 sept | Grid Layout 1/2   |                   |
 | 21 sept | Grid Layout 2/2   |                   |
 | 28 sept | Clamp             | Thibaud, Miguel   |
