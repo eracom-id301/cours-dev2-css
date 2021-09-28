@@ -6,9 +6,9 @@ permalink: evaluations.html
 
 Trois évaluations seront réalisées au courant du semestre:
 
-- **Réaliser les challenges** (1/3).
-- **Test théorique** (qui reprend les questions des quiz de révision hebdomadaires sur Podsie) (1/3). Peut être effectué dès le 23 novembre, et au plus tard le 11 janvier.
-- **Tenir une documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). (1/3). Pourra être évalué dès le 21 décembre.
+- **Réaliser les challenges**.
+- **Test théorique** (qui reprend les questions des quiz de révision hebdomadaires sur Podsie). Peut être effectué dès le 23 novembre, et au plus tard le 11 janvier.
+- **Tenir une documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). Pourra être évalué dès le 21 décembre.
 
 ## Evaluation des challenges
 
