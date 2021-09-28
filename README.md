@@ -1,7 +1,9 @@
 # Développement d’interfaces 2 – CSS
 
-Horaire: mardi – 15h15 à 16h45   
+Horaire: mardi – 15h15 à 16h45  
 Classe: ID301  
+Acronyme cours: EEDEV  
+Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
 Lien: [https://eracom-id301.github.io/cours-dev2-css/](https://eracom-id301.github.io/cours-dev2-css/)
 
