@@ -49,17 +49,25 @@ https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Shapes
 ## Exemples
 
 Un exemple de code:
-https://codepen.io/rachelandrew/pen/zJNRpL?editors=1100 - Smashing Shapes - Gradients
+
 
 Exemples à explorer: 
 
-- CSS shapes - circle - https://codepen.io/eracom/pen/JjJgByG
-- CSS shapes - polygon - https://codepen.io/eracom/pen/GREVBJm
-- CSS shapes - circle with image - https://codepen.io/eracom/pen/mdwNjpB
-- Lettrine en CSS shape: https://codepen.io/eracom/pen/JjJgaOM?editors=1100
+- CSS shapes - circle: [https://codepen.io/eracom/pen/JjJgByG](https://codepen.io/eracom/pen/JjJgByG)
 
-### Clip Path:
-- Clip Path polygon sur une image: https://codepen.io/eracom/pen/rNwXZmj
-- Clip Path et animation: https://codepen.io/team/css-tricks/pen/10c03204463e92a72a6756678e6348d1
 
-Un outil qui aide à comprendre les Clip-Path: https://bennettfeely.com/clippy/
+
+- CSS shapes - polygon: [https://codepen.io/eracom/pen/GREVBJm](https://codepen.io/eracom/pen/GREVBJm)
+
+
+
+- CSS shapes - circle with image: [https://codepen.io/eracom/pen/mdwNjpB](https://codepen.io/eracom/pen/mdwNjpB)
+- Lettrine en CSS shape: [https://codepen.io/eracom/pen/JjJgaOM](https://codepen.io/eracom/pen/JjJgaOM?editors=1100)
+- Smashing Shapes - Gradients: [https://codepen.io/rachelandrew/pen/zJNRpL](https://codepen.io/rachelandrew/pen/zJNRpL?editors=1100)
+
+### Exemples avec Clip Path:
+
+- Clip Path polygon sur une image: [https://codepen.io/eracom/pen/rNwXZmj](https://codepen.io/eracom/pen/rNwXZmj)
+- Clip Path et animation: [https://codepen.io/team/css-tricks/pen/10c03204463e92a72a6756678e6348d1](https://codepen.io/team/css-tricks/pen/10c03204463e92a72a6756678e6348d1)
+
+Un outil qui aide à comprendre les Clip-Path: [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
