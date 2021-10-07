@@ -54,7 +54,7 @@ Un exemple de code:
 Exemples à explorer: 
 
 - CSS shapes - circle: [https://codepen.io/eracom/pen/JjJgByG](https://codepen.io/eracom/pen/JjJgByG)
-
+- Alternative JSFiddle: [https://jsfiddle.net/mschmalstieg/qmv3cney/2/](https://jsfiddle.net/mschmalstieg/qmv3cney/2/)
 
 
 - CSS shapes - polygon: [https://codepen.io/eracom/pen/GREVBJm](https://codepen.io/eracom/pen/GREVBJm)
