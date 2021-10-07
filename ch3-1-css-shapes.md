@@ -4,9 +4,7 @@ title: CSS Shapes
 permalink: css-shapes.html
 ---
 
-CSS Shapes
-
-Deux manières d'interpréter ce terme:
+Dans le jargon du web, le terme "CSS Shapes" peut être compris de deux manières: 
 
 ### 1) produire des formes avec du CSS:
 
@@ -20,7 +18,7 @@ Mais ce que nous allons traiter aujourd'hui, c'est le module CSS Shapes du W3C:
 
 ### 2) CSS Shapes Level 1
 
-Peut-on l'utiliser dans les navigateurs?
+Peut-on l'utiliser dans les navigateurs? La réponse est donné par ce site: 
 [https://caniuse.com/css-shapes](https://caniuse.com/css-shapes)
 
 Ce module fonctionne dans:
@@ -30,9 +28,11 @@ Ce module fonctionne dans:
 - Firefox depuis 2018
 - Edge depuis 2020
 
-## La specification:
+## La specification du W3C
 
 [W3C Candidate Recommendation](https://www.w3.org/TR/css-shapes/), 20 March 2014: "CSS Shapes describe geometric shapes for use in CSS. For Level 1, CSS Shapes can be applied to floats."
+
+## Articles explicatifs
 
 L'article explicatif fondamental:
 *[CSS Shapes 101](https://alistapart.com/article/css-shapes-101/)*, par Sara Soueidan, 2014
@@ -42,7 +42,7 @@ Autre article fondamental : *[Take A New Look At CSS Shapes](https://www.smashin
 Enfin, un 3e article très complet avec de bons exemples: *[An Introduction to CSS Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)*, par Tania Rascia, 2018.
 
 
-## Documentation
+### Documentation
 
 https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Shapes
 
