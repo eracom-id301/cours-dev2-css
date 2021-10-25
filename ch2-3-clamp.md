@@ -67,9 +67,13 @@ Ecrire `clamp(20px, 10vw, 80px)` au lieu de `clamp (20px, 10vw, 80px)`.
 
 ### Ne pas confondre avec vmin, vmax
 
-Les fonctions `min()` et `max()` ne sont pas à confondre avec les unités `vmin` et `vmax`. Ces dernières sont des unités relatives au *viewport*. Rappel des quatre unités *viewport*:
+Les fonctions `min()` et `max()` ne doivent pas être confondues avec les unités `vmin` et `vmax`. Ces dernières sont des unités relatives au *viewport*. Rappel des quatre unités *viewport*:
 
 - `vw` :	1% de la **largeur** du *viewport*
 - `vh` :	1% de la **hauteur** du *viewport*
 - `vmin` :	1% de la plus petite dimension (la plus petite valeur de vh ou vw)
 - `vmax` :	1% de la plus grande dimension (la plus grande valeur de vh ou vw)
+
+Exemple utilisant vmin pour dessiner un cube, qui mesure 50% de la plus petite dimension:
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="LYjWLyo" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
