@@ -18,8 +18,13 @@ Exemple pour générer un point bleu avant un texte dans une liste :
 } 
 ```
 
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="porerxM" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/eracom/pen/porerxM">
+  generated content ♥</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
-Autre exemple: un aplat de couleur en dégradé est apposé "par dessus l'image"
+Autre exemple: un aplat de couleur en dégradé est apposé "par dessus l'image".
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="gORNXWz" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/eracom/pen/gORNXWz">
