@@ -52,7 +52,11 @@ Le résultat de ce code: [https://competent-galileo-9d6914.netlify.app/](https:/
 
 Un exemple pour définir la largeur d'un élément, avec 350px comme minimum et 500px comme maximum:
 
+```css
+width: clamp(350px, 50%, 500px);
+```
 
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="bGpoGdJ" data-editable="true" data-user="una" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
 
 
 ### Ressources
