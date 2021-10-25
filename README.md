@@ -35,7 +35,7 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 - [Grid Layout avancé](grid-advanced.html) - 21 septembre.
 - [Clamp](clamp.html) - 28 septembre.
 
-### Intermède: Generated Content - 5 octobre
+### Intermède: [Generated Content](generated-content.html) - 5 octobre
 
 Le "Generated Content" est une fonctionnalité CSS pratique et de plus en plus utilisée.
 
