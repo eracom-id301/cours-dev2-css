@@ -4,14 +4,32 @@ title: min, max, et clamp
 permalink: clamp.html
 ---
 
+### La fonction min()
 
+La fonction CSS `min()` permet de spécifier plusieurs valeurs, et *la plus petite* sera retenue. Cela permet donc de défnir un seuil maximal. Exemple, pour limiter la largeur d'un élément à un maximum de 600 pixels:
 
-Clamp, une fonction CSS qui va encore plus loin que `minmax()`. Clamp permet de définir une taille de fonte minimum *et* maximum. Dans la spécification du W3C, il est indiqué que:
+```css
+width: min(75%, 600px);
+```
+
+À l'inverse, la fonction max() retiendra la plus grande des unités, elle permet donc de définir un seuil minimal.
+
+### La fonction clamp()
+
+Ces fonctions sont utiles, mais on voudra généralement limiter la taille minimale *et* maximale en même temps. Par exemple pour la taille d'une fonte, on veut un minimum et un maximum, pour garantir la lisibilité sur toutes les tailles d'écrans.
+
+La solution est `clamp()` : cette fonction CSS combine les propriétés de `min()` ou `max()`. Dans la spécification du W3C, il est indiqué que:
 
 * Clamp accepte trois valeurs: valeur minimum, valeur centrale, valeur maximum.
 * En cas de conflit, c'est la valeur minimum qui sera appliquée.
 
-Le mot clamp, en anglais, désigne cet outil:
+`clamp()` permet donc de définir à la fois:
+
+1. une taille minimum. 
+2. une valeur centrale idéale.
+3. une taille maximum. 
+
+Le mot *clamp*, en anglais, désigne cet outil:
 
 ![Un serre-joints](img/clamp.jpg)
 
@@ -34,7 +52,8 @@ Le résultat de ce code: [https://competent-galileo-9d6914.netlify.app/](https:/
 - Support de cours, [Unités CSS](https://cours-web.ch/css/units.html)
 - La spécification du W3C: [Comparison Functions: min(), max(), and clamp()](https://www.w3.org/TR/css-values-4/#comp-func), dans *CSS Values and Units Module Level 4*
 - [Explication en vidéo](https://css-tricks.com/min-max-and-clamp-are-css-magic/), sur CSS Tricks.
-
+- La fonction min() [dans MDN](https://developer.mozilla.org/fr/docs/Web/CSS/min()).
+- La fonction max() [dans MDN](https://developer.mozilla.org/fr/docs/Web/CSS/max()).
 
 
 ### Erreurs possibles
@@ -54,5 +73,3 @@ Les fonctions `min()` et `max()` ne sont pas à confondre avec les unités `vmin
 - `vh` :	1% de la **hauteur** du *viewport*
 - `vmin` :	1% de la plus petite dimension (la plus petite valeur de vh ou vw)
 - `vmax` :	1% de la plus grande dimension (la plus grande valeur de vh ou vw)
-
-Voir : 
