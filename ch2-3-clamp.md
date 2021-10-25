@@ -6,17 +6,21 @@ permalink: clamp.html
 
 ### La fonction min()
 
-La fonction CSS `min()` permet de spécifier plusieurs valeurs, et *la plus petite* sera retenue. Cela permet donc de défnir un seuil maximal. Exemple, pour limiter la largeur d'un élément à un maximum de 600 pixels:
+La fonction CSS `min()` permet de spécifier plusieurs valeurs, et *la plus petite* sera retenue. Cela permet donc de défnir un seuil maximal. Exemple, pour limiter la largeur d'un élément à un maximum de 400 pixels:
 
 ```css
-width: min(75%, 600px);
+width: min(50%, 400px);
 ```
 
-À l'inverse, la fonction max() retiendra la plus grande des unités, elle permet donc de définir un seuil minimal.
+À l'inverse, la fonction `max()` retiendra la plus grande des unités. Elle permet donc de définir un seuil minimal. Exemple:
+
+```css
+width: max(50%, 400px);
+```
 
 ### La fonction clamp()
 
-Ces fonctions sont utiles, mais on voudra généralement limiter la taille minimale *et* maximale en même temps. Par exemple pour la taille d'une fonte, on veut un minimum et un maximum, pour garantir la lisibilité sur toutes les tailles d'écrans.
+Ces fonctions sont utiles, mais on voudra souvent limiter la taille minimale *et* maximale *en même temps*. Par exemple pour la taille d'une fonte, il faut définir un minimum et un maximum, pour garantir la lisibilité sur tous les écrans.
 
 La solution est `clamp()` : cette fonction CSS combine les propriétés de `min()` ou `max()`. Dans la spécification du W3C, il est indiqué que:
 
@@ -46,11 +50,16 @@ h2 {
 
 Le résultat de ce code: [https://competent-galileo-9d6914.netlify.app/](https://competent-galileo-9d6914.netlify.app/)
 
+Un exemple pour définir la largeur d'un élément, avec 350px comme minimum et 500px comme maximum:
+
+
+
 
 ### Ressources
 
 - Support de cours, [Unités CSS](https://cours-web.ch/css/units.html)
 - La spécification du W3C: [Comparison Functions: min(), max(), and clamp()](https://www.w3.org/TR/css-values-4/#comp-func), dans *CSS Values and Units Module Level 4*
+- [Explication en vidéo](https://web.dev/min-max-clamp/), sur Web.Dev
 - [Explication en vidéo](https://css-tricks.com/min-max-and-clamp-are-css-magic/), sur CSS Tricks.
 - La fonction min() [dans MDN](https://developer.mozilla.org/fr/docs/Web/CSS/min()).
 - La fonction max() [dans MDN](https://developer.mozilla.org/fr/docs/Web/CSS/max()).
@@ -65,7 +74,7 @@ Attention : si vous mettez un espace entre clamp et la parenthèse ça ne marche
 Ecrire `clamp(20px, 10vw, 80px)` au lieu de `clamp (20px, 10vw, 80px)`.
 
 
-### Ne pas confondre avec vmin, vmax
+### Différences avec vmin, vmax
 
 Les fonctions `min()` et `max()` ne doivent pas être confondues avec les unités `vmin` et `vmax`. Ces dernières sont des unités relatives au *viewport*. Rappel des quatre unités *viewport*:
 
