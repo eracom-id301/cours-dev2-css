@@ -4,7 +4,7 @@ title: CSS Transforms
 permalink: css-transforms.html
 ---
 
-Challenge proposé par Kita: 
+Challenge proposé par Kita et Noémie: 
 
 https://codepen.io/patrick-scheurer/pen/XWaYMrO
 

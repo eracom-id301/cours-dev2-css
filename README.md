@@ -51,8 +51,8 @@ Un langage visuel comme CSS est un outil d'expression, qui donne une place à la
 
 Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
 
-- A11Y - 23 novembre
-- Input Forms - 30 novembre
+- [A11Y](a11y.html) - 23 novembre
+- [Input Forms](input-forms.html) - 30 novembre
 
 ### Chapitre 5 : GIT
 
