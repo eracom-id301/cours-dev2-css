@@ -36,6 +36,6 @@ Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 ja
 
 ## Documentation personnelle
 
-Tenir une **documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). Il est recommandé de le soumettre à l'évaluation le 21 décembre. 
+Présenter votre **documentation personnelle** avec Github pages (une page avec des liens et exemples de code, sur Replit, Codepen, etc). Il est recommandé de la soumettre à l'évaluation le 21 décembre. 
 
-Critères d'évaluation: à venir.
+Critères d'évaluation: présentés le 7 décembre.
