@@ -18,6 +18,14 @@ Mais ce que nous allons traiter aujourd'hui, c'est le module CSS Shapes du W3C:
 
 ### 2) CSS Shapes Level 1
 
+Voici une double-page du magazine Harper’s Bazaar. Dans les années 1940, le directeur artistique russe Alexey Brodovitch révolutionne la mise en page en combinant images et textes de manière audacieuse:
+
+![Double page de Harper’s Bazaar](img/css-shapes/BrodovitchCW1.jpg)
+
+En CSS, il est possible d'appliquer des formes au texte avec le module CSS Shapes.
+
+![Exemple de shape-outside](img/css-shapes/exemple-shape-outside.png)
+
 Peut-on l'utiliser dans les navigateurs? La réponse est donné par ce site: 
 [https://caniuse.com/css-shapes](https://caniuse.com/css-shapes)
 
@@ -28,7 +36,7 @@ Ce module fonctionne dans:
 - Firefox depuis 2018
 - Edge depuis 2020
 
-## La specification du W3C
+Voici la spécification W3C de ce module:
 
 [W3C Candidate Recommendation](https://www.w3.org/TR/css-shapes/), 20 March 2014: "CSS Shapes describe geometric shapes for use in CSS. For Level 1, CSS Shapes can be applied to floats."
 
@@ -44,11 +52,9 @@ Enfin, un 3e article très complet avec de bons exemples: *[An Introduction to C
 
 ### Documentation
 
-https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Shapes
+[MDN : CSS_Shapes](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Shapes)
 
 ## Exemples
-
-Un exemple de code:
 
 
 Exemples à explorer: 

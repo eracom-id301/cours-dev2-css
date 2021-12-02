@@ -6,13 +6,13 @@ permalink: generated-content.html
 
 Le “Generated Content” est une fonctionnalité CSS pratique et de plus en plus utilisée.
 
-Cette méthode utilise les sélecteurs CSS ::before ou ::after, pour rajouter des éléments avant ou après le contenu déjà existant.  
+Cette méthode utilise les sélecteurs CSS `::before` ou `::after`, pour rajouter des éléments avant ou après le contenu déjà existant.  
 
-Exemple pour générer un point bleu avant un texte dans une liste :
+Exemple pour générer un cœur bleu avant un texte dans une liste :
 
 ```css
 .liste::before{ 
-  content: "•"; 
+  content: "♥"; 
   padding-right: 8px; 
   color: blue; 
 } 

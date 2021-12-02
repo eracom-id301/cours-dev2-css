@@ -43,9 +43,9 @@ Le "Generated Content" est une fonctionnalité CSS pratique et de plus en plus u
 
 Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons trois modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
 
-- CSS Shapes - 2 novembre.
-- CSS Transforms - 9 novembre.
-- CSS Animations - 16 novembre.
+- [CSS Shapes](css-shapes.html) - 2 novembre.
+- [CSS Transforms](css-transforms.html) - 9 novembre.
+- [CSS Animations]() - 16 novembre.
 
 ### Chapitre 4 : A11Y
 
