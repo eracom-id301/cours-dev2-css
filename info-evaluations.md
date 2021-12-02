@@ -8,9 +8,9 @@ Trois évaluations seront réalisées au courant du semestre:
 
 - **Réaliser les challenges**.
 - **Test théorique** (qui reprend les questions des quiz de révision hebdomadaires sur Podsie). Peut être effectué dès le 23 novembre, et au plus tard le 11 janvier.
-- **Tenir une documentation personnelle** (une page avec des liens et exemples de code, sur Github, Codepen, etc). Pourra être évalué dès le 21 décembre.
+- **Publier une documentation personnelle avec Github Pages** (une page avec des liens et exemples de code, sur Replit, Codepen, etc). Pourra être évalué dès le 21 décembre.
 
-## Evaluation des challenges
+## Les challenges
 
 Un challenge peut être "réalisé" ou "non-réalisé", sans nuance qualitative. Le nombre total de challenges proposés durant ce semestre est de 13. Le 13e sera effectué le 11 janvier (cours sur le format SVG).
 
@@ -32,9 +32,7 @@ La note est attribuée en fonction du nombre de challenges réalisés:
 
 Ce test reprendra les questions des quiz de révision publiés chaque semaine sur [Podsie](podsie.html).
 
-Le test pourra être effectué **dès le 23 novembre**, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises. 
-
-Barème: à venir.
+Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises.
 
 ## Documentation personnelle
 
