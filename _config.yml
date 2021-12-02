@@ -2,7 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Développement d'interfaces 2
 description: Cours développement d'interfaces 2.
 lang: fr-FR
-markdown: GFM
+# markdown: GFM
 robots: noindex, nofollow
 # menu 
 chapters:
