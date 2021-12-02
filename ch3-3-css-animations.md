@@ -6,6 +6,32 @@ permalink: css-animations.html
 
 Les animations CSS sont présentées le 16 novembre par Luca et Dani.
 
+Première étape: Définir le nom et les propriétés d’un objet dans une “div”. On définit le nom grâce à la commande “animation-name abc”.
+
+```css
+.square {
+  animation-name: abc;
+  animation-duration: 10s;
+}
+```
+
+Dans une autre section on déclare l’animation grâce à la directive `@keyframes` :
+
+```css
+@keyframes abc {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+}
+```
+
+Plusieurs attributs CSS permettent d’avoir une influence sur l’animation; `animation-duration, animation-delay, animation-iteration-count, animation-direction, animation-timing-function, animation-fill-mode, animation`.
+
+Grâce à cela, on peut modifier la couleur, la taille, la position des objets, le sens de lecture de l’animation, le nombre de répétitions de l’animation et la vitesse.
+
+## Le challenge
+
 Exercice : [https://replit.com/join/sinqicbikk-dandadan](https://replit.com/join/sinqicbikk-dandadan)
 
 > Votre mission sera de :
