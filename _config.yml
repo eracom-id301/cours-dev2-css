@@ -6,9 +6,9 @@ lang: fr-FR
 robots: noindex, nofollow
 # menu 
 chapters:
- - title: Cours Dev 2
+ - title: 💻 Cours Dev 2
    url: https://eracom-id301.github.io/cours-dev2-css/
- - title: Cours Projet Interface
+ - title: 💎 Cours Projet Interface
    url: https://eracom-id301.github.io/cours-projet-interface/
  - title: Référence CSS
    url: https://cours-web.ch/css/
@@ -18,9 +18,9 @@ chapters:
 #   url: https://code.eracom-pedagogique.ch/formation-imd-2020/   
 # - title: Fontes IMD
 #   url: https://code.eracom-pedagogique.ch/fontes-imd/  
- - title: Teams
+ - title: 🏀 Teams
    url: https://teams.microsoft.com/l/channel/19%3af0dbe85c7fa84b01b9831dd3b3855843%40thread.tacv2/Dev%25202%2520(CSS)?groupId=cddcd5ea-659b-4e31-bd8b-2d0781a09f8b&tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1
- - title: Podsie
+ - title: 🧠 Podsie
    url: https://student.podsie.org/
 # pied de page   
 footer_col_1: <ul class="contact-list">
