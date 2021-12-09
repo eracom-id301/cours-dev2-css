@@ -49,6 +49,21 @@ Autre article fondamental : *[Take A New Look At CSS Shapes](https://www.smashin
 
 Enfin, un 3e article très complet avec de bons exemples: *[An Introduction to CSS Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)*, par Tania Rascia, 2018.
 
+### Le challenge à réaliser
+
+
+**Lien du code de base:**  
+[https://codepen.io/timounfrekan/pen/BadmPeE?editors=1100](https://codepen.io/timounfrekan/pen/BadmPeE?editors=1100)
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="BadmPeE" data-editable="true" data-user="timounfrekan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/timounfrekan/pen/BadmPeE">
+  Smashing Shapes - Gradients</a> by Audrey (<a href="https://codepen.io/timounfrekan">@timounfrekan</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+**Objectif demandé:**  
+Inverser la position de la forme (la placer dans l'angle supérieur gauche).
+
 
 ### Documentation
 
