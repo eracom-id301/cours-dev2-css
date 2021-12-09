@@ -62,8 +62,8 @@ La page CSS Zen Garden “Steel”, par Steffen Knoeller:
 
 ### Liens utiles
 
-https://www.w3schools.com/cssref/pr_gen_content.asp 
+[https://www.w3schools.com/cssref/pr_gen_content.asp](https://www.w3schools.com/cssref/pr_gen_content.asp)
 
-https://www.w3schools.com/cssref/pr_gen_counter-increment.asp 
+[https://www.w3schools.com/cssref/pr_gen_counter-increment.asp](https://www.w3schools.com/cssref/pr_gen_counter-increment.asp)
 
-https://www.smashingmagazine.com/2013/04/css-generated-content-counters/ 
+[https://www.smashingmagazine.com/2013/04/css-generated-content-counters/](https://www.smashingmagazine.com/2013/04/css-generated-content-counters/)
