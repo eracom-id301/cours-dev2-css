@@ -35,7 +35,15 @@ Autre exemple: un aplat de couleur en dégradé est apposé "par dessus l'image"
 
 ### Le challenge du jour à compléter :
 
+Exercice présenté le 5 octobre par Simon et Joël
+
 [https://codepen.io/eracom/pen/wveLPjN?editors=1100](https://codepen.io/eracom/pen/wveLPjN?editors=1100) 
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="wveLPjN" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/eracom/pen/wveLPjN">
+  Generated Content 3</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
 
 ### Usages spectaculaires
