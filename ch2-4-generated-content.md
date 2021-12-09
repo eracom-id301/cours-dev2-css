@@ -45,6 +45,7 @@ Exercice présenté le 5 octobre par Simon et Joël
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
+Pour vous auto-corriger, voici un Codepen qui applique un fond avec une couleur-dégradé: [https://codepen.io/eracom/pen/gORNXWz](https://codepen.io/eracom/pen/gORNXWz)
 
 ### Usages spectaculaires
 
