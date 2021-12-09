@@ -12,21 +12,20 @@ Trois évaluations seront réalisées au courant du semestre:
 
 ## Les challenges
 
-Un challenge peut être "réalisé" ou "non-réalisé", sans nuance qualitative. Le nombre total de challenges proposés durant ce semestre est de 13. Le 13e sera effectué le 11 janvier (cours sur le format SVG).
+Un challenge peut être "réalisé" ou "non-réalisé", sans nuance qualitative. Le nombre total de challenges proposés durant ce semestre est de 12. Le 12e sera effectué le 11 janvier.
 
 La note est attribuée en fonction du nombre de challenges réalisés:
 
 | Challenges réalisés | Note |
 |:------------------- |:---- |
-| 13                  | 6    |
-| 12                  | 5,5  |
-| 11                  | 5    |
-| 10                  | 4,5  |
-| 8 - 9               | 4    |
-| 6 - 7               | 3,5  |
-| 4 - 5               | 3    |
-| 2 - 3               | 2    |
-| 0 - 1               | 1    |
+| 12                  | 6    |
+| 11                  | 5,5  |
+| 10                  | 5    |
+| 9                   | 4,5  |
+| 8                   | 4    |
+| 7                   | 3,5  |
+| 6                   | 3    |
+
 
 ## Test théorique
 
