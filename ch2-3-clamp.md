@@ -60,7 +60,7 @@ width: clamp(350px, 50%, 500px);
 
 Une démonstration en vidéo:
 
-<video width="1208" height="530" controls>
+<video width="604" height="265" controls>
   <source src="img/clamp-demo.mp4" type="video/mp4">
 </video>
 
