@@ -58,10 +58,43 @@ Le principe:
 1. En utilisant des commandes Git, on enregistre des "snapshots" qui conservent l'état du projet à un point précis.
 2. On synchronise les modifications locales avec un serveur distant. Git s'occupe de fusionner les modifications.
 
-### Quelques commandes
+### Quelques termes et commandes
 
-git commit
+`git commit`
+
+Ajoute un commit comprenant toutes les modifications indexées.
 
 <video width="640" height="360" controls>
-  <source src="video/clamp-demo.mp4" type="video/mp4">
+  <source src="video/git-commit.mp4" type="video/mp4">
 </video>
+
+`git branch <nombranche> [<commit>]`
+
+Crée une branche sous ce nom qui démarre au commit actuel (ou au commit que vous aurez spécifié, si vous avez indiqué un ID de commit).
+
+<video width="640" height="360" controls>
+  <source src="video/git-branch.mp4" type="video/mp4">
+</video>
+
+`git merge <autrebranche>`
+
+Fusionne "autrebranche" dans la branche actuelle, s'il n'y a pas de conflit.
+
+<video width="640" height="360" controls>
+  <source src="video/merge-conflict.mp4" type="video/mp4">
+</video>
+
+#### push, pull, fetch
+
+`git push`
+
+Pousse l'état actuel de "nombranche" dans le repository distant.
+
+`git pull`
+
+Récupère l'état actuel du repository distant vers votre copie locale, et tente de le fusionner dans votre branche actuelle.
+
+`git fetch`
+
+Copie tout le contenu du repository distant vers votre copie locale.
+
