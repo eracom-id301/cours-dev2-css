@@ -29,9 +29,9 @@ La note est attribuée en fonction du nombre de challenges réalisés:
 
 ## Test théorique
 
-Ce test reprendra les questions des quiz de révision publiés chaque semaine sur [Podsie](podsie.html).
+Ce test reprend certaines questions des quiz de révision publiés chaque semaine sur [Podsie](podsie.html).
 
-Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 janvier. L'élève peut essayer le test à plusieurs reprises.
+Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 janvier.
 
 ## Documentation personnelle
 
