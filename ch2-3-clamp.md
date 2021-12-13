@@ -58,6 +58,12 @@ width: clamp(350px, 50%, 500px);
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="bGpoGdJ" data-editable="true" data-user="una" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"></p>
 
+Une démonstration en vidéo:
+
+<video width="1208" height="530" controls>
+  <source src="img/clamp-demo.mp4" type="video/mp4">
+</video>
+
 
 ### Ressources
 
