@@ -139,6 +139,14 @@ Copie tout le contenu du repository distant vers votre copie locale.
   <source src="video/push-pull.mp4" type="video/mp4">
 </video>
 
+`readme.md`
+
+Le README est un fichier standard se trouvant à la base de votre repository. Github va afficher automatiquement son contenu. Le contenu peut être écrit en syntaxe "[Markdown](https://cours-web.ch/markdown/)", d'où la terminaison "md".
+
+`.gitignore`
+
+Permet de spécifier des fichiers qui doivent être ignorés - des images TIFF, PSD, des fichiers temporaires, des fichiers cachés de MacOS...
+
 ## Liens utiles: 
 
 Support de cours dédié à GIT: [https://cours-web.ch/git/](https://cours-web.ch/git/)
