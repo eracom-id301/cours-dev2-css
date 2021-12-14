@@ -72,7 +72,7 @@ Ceci nous mène aux **trois sections principales** d’un projet Git : le **rép
 ![](img/git/areas.png)
 
 - Le **répertoire de travail** (*working tree* ou *working directory*) : votre espace de travail, sur votre ordinateur. En langage Git: "c'est une extraction unique d’une version du projet. Ces fichiers sont extraits depuis la base de données compressée dans le répertoire Git et placés sur le disque pour pouvoir être utilisés ou modifiés". 
-- La **zone d’index** (*staging area*). On l’appelle aussi des fois la zone de préparation. On y ajoute des fichiers avec la commande "git add". ils sont désormais indexés. Cette zone stocke les informations concernant ce qui fera partie du prochain instantané (commit). La zone d'index n'est pas synchronisée ni partagée, elle n'existe que sur votre ordinateur.
+- La **zone d’index** (*staging area*). On l’appelle aussi des fois la zone de préparation. On y ajoute des fichiers avec la commande "git add": ils sont désormais indexés. Cette zone stocke tout ce qui fera partie du prochain instantané (commit). La zone d'index n'est pas synchronisée ni partagée, elle n'existe que sur votre ordinateur.
 - Le **répertoire Git** (*Git directory*) est l’endroit où Git stocke les méta-données et la base de données des objets de votre projet. C’est la partie la plus importante de Git, et c’est ce qui est copié lorsque vous clonez un dépôt depuis un autre ordinateur.
 
 On pourrait encore ajouter deux sections:
@@ -87,6 +87,8 @@ L’utilisation standard de Git se passe comme suit :
 
 ### Quelques termes et commandes
 
+Les clips vidéo proviennent de la présentation *[Git is Science-Fiction](https://wordpress.tv/2015/12/13/morten-rand-hendriksen-github-for-the-rest-of-us/)*, par Morten Rand-Hendriksen.
+
 `repository`
 
 C'est un dossier de travail géré avec Git. Le dossier où se trouvent tous les fichiers. Il peut s'agir d'un repository **local** (sur votre ordinateur) ou **distant** (*remote*) - par exemple sur Github.
@@ -97,7 +99,7 @@ C'est un dossier de travail géré avec Git. Le dossier où se trouvent tous les
 
 `git commit`
 
-Ajoute un **commit** comprenant toutes les modifications indexées.
+Ajoute un **commit** (instantané) comprenant toutes les modifications indexées.
 
 <video width="640" height="360" controls>
   <source src="video/git-commit.mp4" type="video/mp4">
@@ -113,7 +115,7 @@ Crée une **branche** sous ce nom qui démarre au commit actuel (ou au commit qu
 
 `git merge <autrebranche>`
 
-**Fusionne** "autrebranche" dans la branche actuelle, s'il n'y a pas de conflit.
+**Fusionne** "autrebranche" dans la branche actuelle, s'il n'y a pas de conflit. En cas de conflit, vous devez le résoudre (décider quelle version conserver).
 
 <video width="640" height="360" controls>
   <source src="video/merge-conflict.mp4" type="video/mp4">
@@ -127,7 +129,7 @@ Pousse l'état actuel de "nombranche" dans le repository distant.
 
 `git pull`
 
-Récupère l'état actuel du repository distant vers votre copie locale, et tente de le fusionner dans votre branche actuelle.
+Récupère l'état actuel du repository distant vers votre copie locale, et tente de le fusionner (merge) dans votre branche actuelle.
 
 `git fetch`
 
@@ -139,7 +141,7 @@ Copie tout le contenu du repository distant vers votre copie locale.
 
 ## Liens utiles: 
 
-- Support de cours dédié à GIT: [https://cours-web.ch/git/](https://cours-web.ch/git/)
+Support de cours dédié à GIT: [https://cours-web.ch/git/](https://cours-web.ch/git/)
 
 Une vidéo d'introduction: *Débuter avec Git et Github en 30 min*
 
