@@ -33,8 +33,8 @@ Ce test reprend certaines questions des quiz de révision publiés chaque semain
 
 Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 janvier.
 
-## Documentation personnelle
+## Utilisation de Git
 
-Présenter votre **documentation personnelle** avec Github pages (une page avec des liens et exemples de code, sur Replit, Codepen, etc). Il est recommandé de la soumettre à l'évaluation le 21 décembre. 
+Réalisation d'un site avec la gestion des versions effectuée avec Git. Il est recommandé de la soumettre à l'évaluation le 21 décembre. 
 
 Critères d'évaluation: présentés le 7 décembre.

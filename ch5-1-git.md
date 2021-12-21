@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GIT partie 1
+title: GIT - intro
 permalink: git1.html
 ---
 
