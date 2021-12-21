@@ -37,4 +37,4 @@ Le test pourra être effectué **dès le 30 novembre**, et au plus tard le 11 ja
 
 Réalisation d'un site avec la gestion des versions effectuée avec Git. Il est recommandé de la soumettre à l'évaluation le 21 décembre. 
 
-Critères d'évaluation: présentés le 7 décembre.
+Critères d'évaluation: voir sous [Git - Exercice](git2.html)
