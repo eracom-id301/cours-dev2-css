@@ -112,14 +112,11 @@ Il existe de nombreux éditeurs en ligne:
 - [SVGEdit](https://svgedit.netlify.app/editor/)
 - [PolyPal](https://flukeout.github.io/PolyPal/) "web-based SVG editor for low-poly style illustrations"...
 
-![Formes venant du tutoriel pour Inkscape: Shapes](img/svg/shapes-f14.svg)
-
 <img src="img/svg/shapes-f14.svg" alt="Formes SVG venant du tutoriel pour Inkscape: Shapes" class="image" style="
     background: #fff;
     padding: 5%;
     width: 90%;
 ">
-
 
 ### Guides et documentation
 
