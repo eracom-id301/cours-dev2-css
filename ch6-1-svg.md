@@ -4,6 +4,8 @@ title: SVG
 permalink: svg.html
 ---
 
+**11 janvier 2022:** un aperçu du format SVG.
+
 # Le format SVG 
 
 SVG est un format d'images vectorielles. Les images vectorielles peuvent être redimensionnées sans perte de qualité.
@@ -72,7 +74,7 @@ Résultat:
 
 ### Propriétés CSS
 
-Les éléments SVG ont des propriétés CSS particulières, voici quelques-unes des plus importantes: `fill`, `stroke` et `stroke-width`.
+Les éléments SVG ont des propriétés CSS particulières, voici quelques-unes des plus importantes:
 
 - `fill` donne la valeur de remplissage, c’est à dire la couleur dont sera peint notre objet.
 - `stroke` est la couleur de la bordure de notre objet.
@@ -91,7 +93,7 @@ Quelques collections d'icônes en SVG:
 - [Feather Icons](https://feathericons.com/)
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - icônes de moins de 1kb.
 - [The Noun Project](https://thenounproject.com/)
-- [Spark Joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general--misc) - une liste de sites-ressources
+- [Spark Joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general--misc) - une énorme liste de sites-ressources
 - [Un fil twitter récent](https://twitter.com/argyleink/status/1480237318971686918) qui liste des "favorite open source icon libraries"
 
 ### Créer ou modifier des SVG
@@ -111,6 +113,12 @@ Il existe de nombreux éditeurs en ligne:
 - [PolyPal](https://flukeout.github.io/PolyPal/) "web-based SVG editor for low-poly style illustrations"...
 
 ![Formes venant du tutoriel pour Inkscape: Shapes](img/svg/shapes-f14.svg)
+
+<img src="img/svg/shapes-f14.svg" alt="Formes SVG venant du tutoriel pour Inkscape: Shapes" class="image" style="
+    background: #fff;
+    padding: 5%;
+    width: 90%;
+">
 
 
 ### Guides et documentation
