@@ -13,12 +13,20 @@ SVG est une norme développée par le World Wide Web Consortium (W3C) depuis 199
 Exemple de SVG venant de [https://iconsvg.xyz/](https://iconsvg.xyz/) :
 
 ```html
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#9013fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+<svg width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#9013fe" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+</svg>
 ```
 
 Le résultat: 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#9013fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+<svg width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#9013fe" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+</svg>
 
 ## Vocabulaire du SVG
 
@@ -45,7 +53,7 @@ Exemple: `<rect x="10" y="10" width="80" height="50"/>`
 
 Résultat:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="4">
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="4">
   <rect x="10" y="10" width="80" height="50"/>
 </svg>
 
@@ -58,7 +66,7 @@ Exemple: `<circle cx="50" cy="50" r="50"/>`
 
 Résultat:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="10">
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="10">
   <circle cx="50" cy="50" r="40"/>
 </svg>
 
