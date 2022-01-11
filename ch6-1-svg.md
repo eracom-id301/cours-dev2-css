@@ -12,7 +12,7 @@ SVG est une norme développée par le World Wide Web Consortium (W3C) depuis 199
 
 Exemple de SVG venant de [https://iconsvg.xyz/](https://iconsvg.xyz/) :
 
-```svg
+```html
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#9013fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
 ```
 
@@ -41,17 +41,26 @@ Chacun de ces éléments possède des attributs nécessaires pour le positionnem
 - `width` qui  donne la longueur.
 - `height` qui donne la hauteur.
 
-Exemple: `<rect x="50" y="50" width="100" height="40"/>`
+Exemple: `<rect x="10" y="10" width="80" height="50"/>`
+
+Résultat:
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="4">
+  <rect x="10" y="10" width="80" height="50"/>
+</svg>
 
 **Les cercles** : on utilise la balise `<circle>` qui a trois attributs: 
 
-- `cx` et `cy` pour la position du centre du cercle.
-- longueur, et `height` qui est la hauteur.
+- `cx` et `cy` donne la position du centre du cercle.
+- `r` est le rayon.
 
 Exemple: `<circle cx="50" cy="50" r="50"/>`
 
-- les cercles et les ellipses
-- les lignes et les polygones.
+Résultat:
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none" stroke="blue" stroke-width="10">
+  <circle cx="50" cy="50" r="40"/>
+</svg>
 
 ### Propriétés CSS
 
