@@ -123,3 +123,4 @@ Il existe de nombreux éditeurs en ligne:
 - [Documentation SVG dans MDN](https://developer.mozilla.org/fr/docs/Web/SVG)
 - [Page de ressources du W3C](https://www.w3.org/Graphics/SVG/)
 - Un petit guide sur CSS Tricks: [SVG Properties and CSS](https://css-tricks.com/svg-properties-and-css/)
+- [Documentation SVG dans W3Schools](https://www.w3schools.com/graphics/svg_intro.asp)
