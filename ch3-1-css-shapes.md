@@ -49,7 +49,7 @@ Autre article fondamental : *[Take A New Look At CSS Shapes](https://www.smashin
 
 Enfin, un 3e article très complet avec de bons exemples: *[An Introduction to CSS Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)*, par Tania Rascia, 2018.
 
-### Le challenge à réaliser
+### Le challenge à réaliser
 
 
 **Lien du code de base:**  
